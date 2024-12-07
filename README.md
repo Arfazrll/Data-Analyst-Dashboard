@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ### 3. Run the Dashboard
 
 ```bash
-python Dashboard/EcomersDashboard.py.py
+streamlit run Dashboard/EcomersDashboard.py.py
 ```
 
 ### 4. Explore
